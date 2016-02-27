@@ -1,7 +1,8 @@
 //Originally written by Suvojit Manna
 //Edited by Somnath Rakshit
 
-//edited by Susmita Dutta#include<stdio.h>
+//edited by Susmita Dutta
+#include<stdio.h>
 
 #define MAX_STATE 26
 #define MAX_PART 10
